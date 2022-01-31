@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EscuelaApp</string>
+    <string name="school_subjects">Asignaturas escolares</string>
+    <string name="add">Agregar</string>
+    <string name="update">Actualizar</string>
+    <string name="add_subject">Agregar asignatura</string>
+    <string name="add_student">Agregar estudiante</string>
+    <string name="update_subject">Actualizar asignatura</string>
+    <string name="update_student">Actualizar estudiante</string>
+    <string name="subject_name">Nombre de la asignatura</string>
+    <string name="student_name">Nombre del estudiante</string>
+    <string name="enter_the_subject_name">Ingrese el nombre de la asignatura</string>
+    <string name="enter_the_student_name">Ingrese el nombre del estudiante</string>
+    <string name="added_successfully">Agregado exitosamente</string>
+    <string name="updated_successfully">Actualizado exitosamente</string>
+</resources>

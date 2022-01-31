@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SchoolApp</string>
+    <string name="school_subjects">School subjects</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="add_subject">Add subject</string>
+    <string name="add_student">Add student</string>
+    <string name="update_subject">Update subject</string>
+    <string name="update_student">Update student</string>
+    <string name="subject_name">Subject name</string>
+    <string name="student_name">Student name</string>
+    <string name="enter_the_subject_name">Enter the subject name</string>
+    <string name="enter_the_student_name">Enter the student name</string>
+    <string name="added_successfully">Added successfully</string>
+    <string name="updated_successfully">Updated successfully</string>
+</resources>

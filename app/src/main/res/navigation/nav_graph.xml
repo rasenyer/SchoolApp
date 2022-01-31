@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="com.rasenyer.schoolapp.ui.fragments.home.HomeFragment"
+        android:label="@string/school_subjects"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_AddSubjectFragment"
+            app:destination="@id/AddSubjectFragment"/>
+
+        <action
+            android:id="@+id/action_HomeFragment_to_AddStudentFragment"
+            app:destination="@id/AddStudentFragment"/>
+
+        <action
+            android:id="@+id/action_HomeFragment_to_UpdateSubjectFragment"
+            app:destination="@id/UpdateSubjectFragment"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/AddSubjectFragment"
+        android:name="com.rasenyer.schoolapp.ui.fragments.add.AddSubjectFragment"
+        android:label="@string/add_subject"
+        tools:layout="@layout/fragment_add_subject">
+
+        <action
+            android:id="@+id/action_AddSubjectFragment_to_HomeFragment"
+            app:destination="@id/HomeFragment"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/AddStudentFragment"
+        android:name="com.rasenyer.schoolapp.ui.fragments.add.AddStudentFragment"
+        android:label="@string/add_student"
+        tools:layout="@layout/fragment_add_student">
+
+        <argument
+            android:name="subject"
+            app:argType="com.rasenyer.schoolapp.data.local.models.Subject"
+            app:nullable="true"/>
+
+        <action
+            android:id="@+id/action_AddStudentFragment_to_UpdateStudentFragment"
+            app:destination="@id/UpdateStudentFragment"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/UpdateSubjectFragment"
+        android:name="com.rasenyer.schoolapp.ui.fragments.update.UpdateSubjectFragment"
+        android:label="@string/update_subject"
+        tools:layout="@layout/fragment_update_subject">
+
+        <argument
+            android:name="subject"
+            app:argType="com.rasenyer.schoolapp.data.local.models.Subject"
+            app:nullable="true"/>
+
+        <action
+            android:id="@+id/action_UpdateCareerFragment_to_HomeFragment"
+            app:destination="@id/HomeFragment"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/UpdateStudentFragment"
+        android:name="com.rasenyer.schoolapp.ui.fragments.update.UpdateStudentFragment"
+        android:label="@string/update_student"
+        tools:layout="@layout/fragment_update_student">
+
+        <argument
+            android:name="student"
+            app:argType="com.rasenyer.schoolapp.data.local.models.Student"
+            app:nullable="true"/>
+
+    </fragment>
+
+</navigation>
