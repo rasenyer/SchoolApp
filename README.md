@@ -36,25 +36,25 @@ This application shows you, how to define relationships between entities, using 
 <h2>Screenshots:</h2>
 
 <div class="row">
-      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiwJ8CE-18HskkyqzN_xcO4DEHD7ti7zy6NVZ-pUqLpoqngfQN5yR3-z4qC0JXLXDNSHqPJr0EfEie3t93dJoxFWdtuAufLm0kywbPWzENx5Ppvn0syTch2wbLInoFj3hx5-iaQ9MfeDJc-FGu9BNxtJbtcDK9npyEJVlbp6-kPcDSJXeei6HPqodnj=s16000" width="250">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgj1jdA8Uq4wJFvV0E0pKyk8D3IW2qd5DKxRotGxGMJsw7yK2c1c0KX4wSALBdaHxI99Lt4EzviY1vpDvZHG-iEe6avqOswTse5K-A7YH9XGzPh-p6IP2FnGtGMST3duNsvBGHQ8p9JXKjao9zQlq9xFc7d2aLabisym3IZ5iUNRzrVy7biDUSOIw43=s16000" width="250">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh7ixP5J45XVZk_i_H-QDkXheg8zLJGlkcvp7Kb1sLf4S5vZdS3yojJEiU2JPWTWjsitMLxv7qqDd1u9hM4bC21DskP-85lG1r4rTOoYZJWZhp8cJUzKbmq32Y6aTWKpwmBuUrTmjmZ1eHuepmCcnF4vW4dCCcABLZw8gWGq7giSKTXILYMJq0XYOg_=s16000" width="250">
+      	<img src="https://media-exp1.licdn.com/dms/image/C4D22AQGqWv6AZPpyVg/feedshare-shrink_1280/0/1649550386841?e=2147483647&v=beta&t=f-E2OvOuheYWrGFWyZQPezQC3pv3inOtxX-WpSlAdR8" width="250">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEih2x5h2fiYw/feedshare-shrink_1280/0/1649550386911?e=2147483647&v=beta&t=drbOH_Z67EWh9SQMmAAFgkopLMM-4OjhzZ1a-3Jl1ck" width="250">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGz8mum6P5ReQ/feedshare-shrink_1280/0/1649550386838?e=2147483647&v=beta&t=RE-HmagZjSeQIhm6QM7rQz5H3MLfRuW8twuz6ik8GhQ" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEjcct8wKkllV5nABHufUvilA3Hqyd36P-CPvpbGAgYlvJ5QcmGEY1YBnFdRe-vwosNh5cX-RohQ3hnM1gB0e3WFZ-Fh-LHpzTs8gOOwL7m5gAzdc0yMxOoJD20gFUHVztoVrqlvFmla27cbMdD6qQQRuEdGJP5sqN_YHZcBHFf_UzAWhpdj6IURDn_l=s16000" width="250">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjBmwR1nkMnxozyWNvxxHNjx1LfJblQe9gcaWHdZiOI_koVVBxvCLC-Xvi1auo5wgN8QdacPgszt9OrDaLg3WYBHd7P90nzvhV4k5wM7n2AacsyHoeHPIDPBNyKVNGnEKV82bumCGK5Rr3bfjYyScauj7V1RuNP9uc42ld0fvCTxezU5w08ttlU5QIZ=s16000" width="250">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjifiMwhnj3wg_F5cJoyY0TBdPU1e53f2kt4uyzKjnv5jGe_ShnT03Lbi2IvBYc3eooS1oM_66OL2a_HLZKA5IDWmyX8tSD9M9p9lT0GY3i2Z8KeNfrWfCsKzHYtw9_Mz0AKI7u2EtCsmQ1-FrXSKvGtEsMyV0Uec_vKEJvDzVNfluSAL92Xwlq6BJ9=s16000" width="250">
+      	<img src="https://media-exp1.licdn.com/dms/image/C4D22AQE6BPVFDRvvvg/feedshare-shrink_1280/0/1649550386849?e=2147483647&v=beta&t=AG9bi5c7gwvwuh_TJ3MBY8jvH7hRLSG2EJOMeDp1l9I" width="250">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEFB68W8uqr9w/feedshare-shrink_1280/0/1649550386811?e=2147483647&v=beta&t=Jo_yU5FtThUMFS1xRigpy2xvuJePkVoHhisgQjv-p1I" width="250">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHhknF2ZEXg8g/feedshare-shrink_1280/0/1649550386789?e=2147483647&v=beta&t=Fn5X9ndrcQ4cO-p2FpxuEFqzm6CnV9z8pelOTpEsDsc" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgbFzSz5b3rtfldAViKJBtn0Vl1brt9OnMQ1_q2CM7_3aKFLj6bKGqNVWlwlpEbaFXJMs-gaFcNDOZLdMiZIy2oVqR97anTTdZJ9MP_Xpx6FimEMRnWZPrYs3ozE4amjo7pfk-RhrUO2Tjh9xpnfD5P5ZgcmUtBwk5ucLvnWbGpHavlbWBVvlhftZ3X=s16000" width="250">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiQIdtQZ1ELN8xgjsA9t-gKqjMiJohFipHCFMDUVHoynlJjKCH7nuRususaUEDIS0sjjtmLEm9Jr-4ugc_T6MKBSWATJuTp3eyHgpqHj8_eVA7F-cQ2djMyRu8Rax46dbsXN60Sv4hiwYKUD3iJSQ1ugfZXeR9wOdXq4PWMGMyEJs14NGxU3k2tZYBf=s16000" width="250">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi7qJOonJPm8G_3imzchgcKkoJJRdmstEr88GATQiQtKMrIhZbFggKeyRShvdF54ap1wicZk-3Kyg53qnPQWkv44q501-CmkpDNXONyq1g2r4_1q08Z1h0t6guUI67jlSNMJsoqqQR-aVlrW9h2V3DEzT5HtYi-UyqAYN3sc59zxMjdWa_3tfs0FwSX=s16000" width="250">
+      	<img src="https://media-exp1.licdn.com/dms/image/C4D22AQEI31ADIFk80g/feedshare-shrink_1280/0/1649550386802?e=2147483647&v=beta&t=GoLYYkA-gC_ozYu5M8Fo2GSknDArXstFKcjVWjUaYdw" width="250">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEbbuFVUkExYw/feedshare-shrink_1280/0/1649550386897?e=2147483647&v=beta&t=1lmAc9gkKI_GzbhfbdeywYVzgCnXhxInH-wN-ITHeWE" width="250">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFTdh8Yu3Iz0g/feedshare-shrink_1280/0/1649550386815?e=2147483647&v=beta&t=lN16CEY69-YmYFaa3OiSHlNwYnaBpX2-35EXU9slDPs" width="250">
 </div>
 
 <br>
